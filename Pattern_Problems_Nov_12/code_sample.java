@@ -1,5 +1,3 @@
-package com.patterns;
-
 public class code_sample {
     public static void main(String[] args) {
 
