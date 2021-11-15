@@ -1,4 +1,5 @@
 package Pattern_Problems_Nov_12;
+
 public class code_sample {
     public static void main(String[] args) {
 
